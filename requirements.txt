@@ -1,0 +1,9 @@
+numpy 
+pandas
+minisom
+matplotlib
+sklearn
+pandas-profiling
+streamlit_pandas_profiling
+plotly
+pickle5
