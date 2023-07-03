@@ -71,7 +71,7 @@ if choise == 'Show Information':
             st.write(file1)
 
 if choise == 'Download':
-    with open('Data\Frauds.xlsx', 'rb') as f:
+    with open('Data/Frauds.xlsx', 'rb') as f:
         st.download_button('Download the Frauds Data', f, 'Frauds.xlsx')
         
            
