@@ -7,3 +7,4 @@ pandas-profiling
 streamlit_pandas_profiling
 plotly
 pickle5
+openpyxl
