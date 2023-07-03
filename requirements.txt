@@ -2,7 +2,7 @@ numpy
 pandas
 minisom
 matplotlib
-sklearn
+scikit-learn
 pandas-profiling
 streamlit_pandas_profiling
 plotly
