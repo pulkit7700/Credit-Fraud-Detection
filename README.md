@@ -15,7 +15,7 @@ The dataset used for this project is the Credit Card Applications dataset, which
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/pulkit7700/Credit-Fraud-Detection.git
    ```
 
 2. Install the required dependencies:
