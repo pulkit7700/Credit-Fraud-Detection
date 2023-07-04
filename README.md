@@ -2,7 +2,7 @@
  This App uses self organising Maps to Dectect Anaomolies in the Dataaet Provided  by the  Bankers
 # Self-Organizing Maps for Fraud Account Detection in Credit Card Applications Dataset
 
-![Fraud Detection](https://example.com/fraud_detection_image.png)
+![Fraud Detection]([https://example.com/fraud_detection_image.png](https://mastechinfotrellis.com/blog/knowledge-graphs-for-fraud-detection))
 
 This repository contains code and resources for using Self-Organizing Maps (SOM) to detect fraud accounts in a credit card applications dataset. The SOM algorithm is a powerful tool for unsupervised learning that can help identify patterns and anomalies in data.
 
@@ -29,7 +29,7 @@ The dataset used for this project is the Credit Card Applications dataset, which
 1. Run the SOM algorithm on the dataset:
 
    ```bash
-   python som_fraud_detection.py
+   streamlit run app.py
    ```
 
 2. The algorithm will train the SOM and generate a visual representation of the fraud detection results.
